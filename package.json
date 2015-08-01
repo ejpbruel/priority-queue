@@ -1,0 +1,22 @@
+{
+  "name": "priority-queue",
+  "version": "1.0.0",
+  "description": "A priority queue written in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ejpbruel/priority-queue.git"
+  },
+  "author": "Eddy Bruel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ejpbruel/priority-queue/issues"
+  },
+  "homepage": "https://github.com/ejpbruel/priority-queue",
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  }
+}
